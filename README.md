@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do setor-7 😁
 
  <div>
    <a href="https://github.com/setor-7">
