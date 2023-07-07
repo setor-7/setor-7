@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Redes sociais em configuração, assim que possivel sera liberado o acesso ao conteúdo!
  
 <div> 
   <a href="https://www.youtube.com/setor-7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
